@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="25%" stop-color="#161B22"/>
+      <stop offset="50%" stop-color="#0D1117"/>
+      <stop offset="75%" stop-color="#161B22"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="lineTop" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#58A6FF" stop-opacity="0.15"/>
+      <stop offset="50%" stop-color="#58A6FF" stop-opacity="0.3"/>
+      <stop offset="80%" stop-color="#58A6FF" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="120" fill="url(#waveGrad)"/>
+  <line x1="0" y1="0" x2="1200" y2="0" stroke="url(#lineTop)" stroke-width="1"/>
+  <circle cx="600" cy="60" r="1.5" fill="#8B949E" opacity="0.3"/>
+  <circle cx="560" cy="50" r="1" fill="#8B949E" opacity="0.2"/>
+  <circle cx="640" cy="55" r="1" fill="#8B949E" opacity="0.2"/>
+  <circle cx="580" cy="70" r="1" fill="#8B949E" opacity="0.15"/>
+  <circle cx="620" cy="45" r="1" fill="#8B949E" opacity="0.2"/>
+  <circle cx="550" cy="65" r="0.8" fill="#8B949E" opacity="0.15"/>
+  <circle cx="650" cy="72" r="0.8" fill="#8B949E" opacity="0.15"/>
+</svg>

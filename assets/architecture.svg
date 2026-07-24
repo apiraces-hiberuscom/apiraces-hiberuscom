@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <linearGradient id="a1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#1F6FEB"/>
+    </linearGradient>
+    <linearGradient id="a2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#5B21B6"/>
+    </linearGradient>
+    <linearGradient id="a3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00C896"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+  </defs>
+  <rect x="10" y="10" width="100" height="24" rx="4" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+  <rect x="10" y="14" width="100" height="4" rx="2" fill="url(#a1)" opacity="0.6"/>
+  <text x="60" y="27" font-family="'SF Pro',sans-serif" font-size="10" fill="#8B949E" text-anchor="middle">PRESENTATION</text>
+
+  <rect x="10" y="42" width="100" height="24" rx="4" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+  <rect x="10" y="46" width="100" height="4" rx="2" fill="url(#a2)" opacity="0.6"/>
+  <text x="60" y="59" font-family="'SF Pro',sans-serif" font-size="10" fill="#8B949E" text-anchor="middle">APPLICATION</text>
+
+  <rect x="10" y="74" width="100" height="24" rx="4" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+  <rect x="10" y="78" width="100" height="4" rx="2" fill="url(#a3)" opacity="0.6"/>
+  <text x="60" y="91" font-family="'SF Pro',sans-serif" font-size="10" fill="#8B949E" text-anchor="middle">INFRASTRUCTURE</text>
+
+  <line x1="60" y1="34" x2="60" y2="42" stroke="#30363D" stroke-width="1"/>
+  <line x1="60" y1="66" x2="60" y2="74" stroke="#30363D" stroke-width="1"/>
+</svg>

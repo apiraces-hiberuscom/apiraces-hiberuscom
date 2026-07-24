@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="340" viewBox="0 0 400 340">
+  <defs>
+    <linearGradient id="pathGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="50%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#00C896"/>
+    </linearGradient>
+    <linearGradient id="dotBlue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="100%" stop-color="#1F6FEB"/>
+    </linearGradient>
+    <linearGradient id="dotPurple" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#5B21B6"/>
+    </linearGradient>
+    <linearGradient id="dotGreen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00C896"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+  </defs>
+
+  <line x1="48" y1="24" x2="48" y2="300" stroke="url(#pathGrad)" stroke-width="2" stroke-linecap="round"/>
+
+  <circle cx="48" cy="65" r="8" fill="url(#dotBlue)" stroke="#0D1117" stroke-width="3"/>
+  <text x="72" y="61" font-family="'SF Mono','JetBrains Mono',monospace" font-size="12" fill="#8B949E">2014 — 2019</text>
+  <text x="72" y="80" font-family="'SF Pro','Inter',sans-serif" font-size="15" fill="#F0F6FC" font-weight="600">Spanish Army</text>
+  <text x="230" y="80" font-family="'SF Pro','Inter',sans-serif" font-size="11" fill="#8B949E">Leadership &amp; Operations</text>
+
+  <circle cx="48" cy="155" r="8" fill="url(#dotPurple)" stroke="#0D1117" stroke-width="3"/>
+  <text x="72" y="151" font-family="'SF Mono','JetBrains Mono',monospace" font-size="12" fill="#8B949E">2019 — Present</text>
+  <text x="72" y="170" font-family="'SF Pro','Inter',sans-serif" font-size="15" fill="#F0F6FC" font-weight="600">Software Engineering</text>
+  <text x="250" y="170" font-family="'SF Pro','Inter',sans-serif" font-size="11" fill="#8B949E">.NET · Azure · AI</text>
+
+  <circle cx="48" cy="250" r="10" fill="url(#dotGreen)" stroke="#0D1117" stroke-width="3"/>
+  <text x="72" y="246" font-family="'SF Mono','JetBrains Mono',monospace" font-size="12" fill="#8B949E">Today</text>
+  <text x="72" y="265" font-family="'SF Pro','Inter',sans-serif" font-size="15" fill="#00C896" font-weight="600">Pivoting to Cybersecurity</text>
+
+  <rect x="72" y="280" width="280" height="40" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+  <text x="80" y="305" font-family="'SF Pro','Inter',sans-serif" font-size="12" fill="#00C896">CEH · Pentesting · OWASP · Threat Modeling</text>
+</svg>
