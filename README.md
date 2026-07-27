@@ -193,6 +193,23 @@ From the Spanish Army to enterprise software. From software engineering to a cyb
 </div>
 </td>
 </tr>
+<tr>
+<td colspan="3" style="padding: 6px; border: none; vertical-align: top;">
+<div style="background: #161B22; border: 1px solid #21262D; border-radius: 8px; padding: 20px; text-align: center;">
+<p style="margin: 0 0 10px; font-size: 11px; color: #58A6FF; font-weight: 600; letter-spacing: 1px; text-transform: uppercase;">Technologies</p>
+<p style="margin: 0; line-height: 2.4;">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0D1117" alt=".NET" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" alt="Python" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117" alt="HTML5" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0D1117" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=0D1117" alt="Angular" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117" alt="Java" />
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white&labelColor=0D1117" alt="Swift" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=0D1117" alt="Android" />
+</p>
+</div>
+</td>
+</tr>
 </table>
 
 </div>
