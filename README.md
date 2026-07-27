@@ -220,6 +220,14 @@ From the Spanish Army to enterprise software. From software engineering to a cyb
 
 <br />
 
+<div align="center" style="padding: 24px 0;">
+
+<img src="https://raw.githubusercontent.com/apiraces-hiberuscom/apiraces-hiberuscom/output/github-snake-dark.svg" width="100%" style="max-width: 640px;" />
+
+</div>
+
+<br />
+
 <div style="max-width: 420px; margin: 0 auto; padding: 24px 0; text-align: center;">
 
 <div style="width: 40px; height: 3px; background: linear-gradient(90deg, #58A6FF, #7C3AED, #00C896); border-radius: 2px; margin: 0 auto 20px;"></div>
