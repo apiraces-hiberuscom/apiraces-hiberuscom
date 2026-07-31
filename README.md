@@ -6,7 +6,7 @@
 
 <div style="width: 40px; height: 3px; background: linear-gradient(90deg, #58A6FF, #7C3AED, #00C896); border-radius: 2px; margin: 0 auto 20px;"></div>
 
-<h1 style="font-size: 44px; font-weight: 700; color: #F0F6FC; margin: 0 0 4px; letter-spacing: -1.5px; line-height: 1.1;">Alejandro Piracés</h1>
+<h1 style="font-size: 44px; font-weight: 700; color: #F0F6FC; margin: 0 0 4px; letter-spacing: -1.5px; line-height: 1.1;">Alejandro Piracés Pérez</h1>
 
 <p style="color: #8B949E; font-size: 14px; font-weight: 500; margin: 0 0 16px; letter-spacing: 3px; text-transform: uppercase;">Software Engineer</p>
 
