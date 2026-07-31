@@ -2,7 +2,7 @@
 
 <img src="assets/hero-bg.svg" width="100%" style="max-width: 640px;" />
 
-<img src="https://media.licdn.com/dms/image/v2/D4E03AQE2DRcA2yNI9g/profile-displayphoto-scale_200_200/B4EZ2_96dYIcAY-/0/1777042185545?e=1786579200&amp;v=beta&amp;t=OF6kkSzC8VAWKPWkFIk657n7d0vAnXvhvqBjIZVPhQI" width="120" height="120" style="border-radius: 50%; border: 2px solid #30363D; margin: 20px auto 16px;" />
+<img src="https://github.com/user-attachments/assets/834f10d9-76e5-429e-897c-b24cfbc55e6](https://media.licdn.com/dms/image/v2/D4D0BAQFns81M5l7Z7w/company-logo_200_200/B4DZe_kj7lGsAM-/0/1751265722457/hiberus_logo?e=2147483647&v=beta&t=IIVTldG1eV4leB0SNd8l1B9_jrL_APo8P3xgvOZOafs" width="120" height="120" style="border-radius: 50%; border: 2px solid #30363D; margin: 20px auto 16px;" />
 
 <div style="width: 40px; height: 3px; background: linear-gradient(90deg, #58A6FF, #7C3AED, #00C896); border-radius: 2px; margin: 0 auto 20px;"></div>
 
