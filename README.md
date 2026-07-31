@@ -17,8 +17,12 @@ From enterprise software to security engineering. I build systems that last and 
 </p>
 
 <div style="display: flex; gap: 8px; justify-content: center; flex-wrap: wrap;">
-<a href="https://www.linkedin.com/in/alejandropiraces/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" /></a>
-<a href="https://github.com/apiraces-hiberuscom"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/alejandropiraces/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" /></a><br><br><br>Technologies<br><br>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0D1117" alt=".NET" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" alt="Python" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=0D1117" alt="Angular" />
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white&labelColor=0D1117" alt="Swift" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=0D1117" alt="Android" />
 </div>
 
 </div>
@@ -47,31 +51,6 @@ It took me from the military to enterprise development, from software engineerin
 
 <div style="width: 28px; height: 2px; background: linear-gradient(90deg, #58A6FF, #7C3AED, #00C896); border-radius: 1px; margin-bottom: 20px;"></div>
 
-<h2 style="font-size: 20px; font-weight: 600; color: #F0F6FC; margin: 0 0 24px;">Focus Areas</h2>
-
-<table style="width: 100%; border-collapse: collapse; border: none;">
-<tr>
-<td style="width: 50%; padding: 6px; border: none; vertical-align: top;">
-<div style="background: #161B22; border: 1px solid #21262D; border-radius: 8px; padding: 24px 16px; text-align: center;">
-<img src="assets/ai.svg" width="80" height="80" />
-<h3 style="font-size: 14px; font-weight: 600; color: #7C3AED; margin: 12px 0 6px;">Artificial Intelligence</h3>
-<p style="font-size: 12px; color: #8B949E; line-height: 1.6; margin: 0;">LLM integration, RAG pipelines, AI agents, MCP, and practical enterprise AI.</p>
-</div>
-</td>
-<td style="width: 50%; padding: 6px; border: none; vertical-align: top;">
-<div style="background: #161B22; border: 1px solid #21262D; border-radius: 8px; padding: 24px 16px; text-align: center;">
-<img src="assets/cybersecurity.svg" width="80" height="80" />
-<h3 style="font-size: 14px; font-weight: 600; color: #00C896; margin: 12px 0 6px;">Cybersecurity</h3>
-<p style="font-size: 12px; color: #8B949E; line-height: 1.6; margin: 0;">Pentesting, OWASP Top 10, threat modeling, and security-by-design principles.</p>
-</div>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br />
-
 <div style="max-width: 640px; margin: 0 auto; padding: 24px 0;">
 
 <div style="width: 28px; height: 2px; background: #7C3AED; border-radius: 1px; margin-bottom: 20px;"></div>
@@ -90,144 +69,11 @@ From the Spanish Army to enterprise software. From software engineering to a cyb
 
 <div style="max-width: 640px; margin: 0 auto; padding: 24px 0;">
 
-<div style="width: 28px; height: 2px; background: #00C896; border-radius: 1px; margin-bottom: 20px;"></div>
-
-<h2 style="font-size: 20px; font-weight: 600; color: #F0F6FC; margin: 0 0 24px;">Principles</h2>
-
-<table style="width: 100%; border-collapse: collapse; border: none;">
-<tr>
-<td style="width: 50%; padding: 6px; border: none; vertical-align: top;">
-<div style="background: #161B22; border: 1px solid #21262D; border-radius: 8px; padding: 20px;">
-<p style="margin: 0 0 6px; font-size: 11px; color: #58A6FF; font-weight: 600; letter-spacing: 0.5px;">01</p>
-<h4 style="margin: 0 0 4px; font-size: 14px; color: #F0F6FC; font-weight: 600;">Think First, Code Later</h4>
-<p style="margin: 0; font-size: 12px; color: #8B949E; line-height: 1.5;">An hour of thinking saves a week of refactoring.</p>
-</div>
-</td>
-<td style="width: 50%; padding: 6px; border: none; vertical-align: top;">
-<div style="background: #161B22; border: 1px solid #21262D; border-radius: 8px; padding: 20px;">
-<p style="margin: 0 0 6px; font-size: 11px; color: #7C3AED; font-weight: 600; letter-spacing: 0.5px;">02</p>
-<h4 style="margin: 0 0 4px; font-size: 14px; color: #F0F6FC; font-weight: 600;">Security by Default</h4>
-<p style="margin: 0; font-size: 12px; color: #8B949E; line-height: 1.5;">Security is a property of every decision in the stack.</p>
-</div>
-</td>
-</tr>
-<tr>
-<td style="width: 50%; padding: 6px; border: none; vertical-align: top;">
-<div style="background: #161B22; border: 1px solid #21262D; border-radius: 8px; padding: 20px;">
-<p style="margin: 0 0 6px; font-size: 11px; color: #00C896; font-weight: 600; letter-spacing: 0.5px;">03</p>
-<h4 style="margin: 0 0 4px; font-size: 14px; color: #F0F6FC; font-weight: 600;">Simplicity Over Complexity</h4>
-<p style="margin: 0; font-size: 12px; color: #8B949E; line-height: 1.5;">The best solutions are boring, predictable, and easy to reason about.</p>
-</div>
-</td>
-<td style="width: 50%; padding: 6px; border: none; vertical-align: top;">
-<div style="background: #161B22; border: 1px solid #21262D; border-radius: 8px; padding: 20px;">
-<p style="margin: 0 0 6px; font-size: 11px; color: #58A6FF; font-weight: 600; letter-spacing: 0.5px;">04</p>
-<h4 style="margin: 0 0 4px; font-size: 14px; color: #F0F6FC; font-weight: 600;">Master Principles, Not Tools</h4>
-<p style="margin: 0; font-size: 12px; color: #8B949E; line-height: 1.5;">Frameworks change. SOLID and critical thinking endure.</p>
-</div>
-</td>
-</tr>
-<tr>
-<td style="width: 50%; padding: 6px; border: none; vertical-align: top;">
-<div style="background: #161B22; border: 1px solid #21262D; border-radius: 8px; padding: 20px;">
-<p style="margin: 0 0 6px; font-size: 11px; color: #7C3AED; font-weight: 600; letter-spacing: 0.5px;">05</p>
-<h4 style="margin: 0 0 4px; font-size: 14px; color: #F0F6FC; font-weight: 600;">Continuous Learning</h4>
-<p style="margin: 0; font-size: 12px; color: #8B949E; line-height: 1.5;">The ability to learn is the only lasting skill in technology.</p>
-</div>
-</td>
-<td style="width: 50%; padding: 6px; border: none; vertical-align: top;">
-<div style="background: #161B22; border: 1px solid #21262D; border-radius: 8px; padding: 20px;">
-<p style="margin: 0 0 6px; font-size: 11px; color: #00C896; font-weight: 600; letter-spacing: 0.5px;">06</p>
-<h4 style="margin: 0 0 4px; font-size: 14px; color: #F0F6FC; font-weight: 600;">Full-Stack Understanding</h4>
-<p style="margin: 0; font-size: 12px; color: #8B949E; line-height: 1.5;">From kernel to cloud. Depth over breadth.</p>
-</div>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br />
-
-<div style="max-width: 640px; margin: 0 auto; padding: 24px 0;">
-
-<div style="width: 28px; height: 2px; background: linear-gradient(90deg, #58A6FF, #7C3AED); border-radius: 1px; margin-bottom: 20px;"></div>
-
-<h2 style="font-size: 20px; font-weight: 600; color: #F0F6FC; margin: 0 0 24px;">Stack</h2>
-
-<table style="width: 100%; border-collapse: collapse; border: none;">
-<tr>
-<td style="width: 33%; padding: 6px; border: none; vertical-align: top;">
-<div style="background: #161B22; border: 1px solid #21262D; border-radius: 8px; padding: 20px;">
-<p style="margin: 0 0 10px; font-size: 11px; color: #58A6FF; font-weight: 600; letter-spacing: 1px; text-transform: uppercase;">Backend</p>
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="22" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="22" /></p>
-<p style="margin: 8px 0 0; font-size: 11px; color: #8B949E;">ASP.NET Core · EF Core · CQRS</p>
-</div>
-</td>
-<td style="width: 33%; padding: 6px; border: none; vertical-align: top;">
-<div style="background: #161B22; border: 1px solid #21262D; border-radius: 8px; padding: 20px;">
-<p style="margin: 0 0 10px; font-size: 11px; color: #7C3AED; font-weight: 600; letter-spacing: 1px; text-transform: uppercase;">Cloud & DevOps</p>
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="22" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="22" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="22" /></p>
-<p style="margin: 8px 0 0; font-size: 11px; color: #8B949E;">Azure · DevOps · Docker · CI/CD</p>
-</div>
-</td>
-<td style="width: 33%; padding: 6px; border: none; vertical-align: top;">
-<div style="background: #161B22; border: 1px solid #21262D; border-radius: 8px; padding: 20px;">
-<p style="margin: 0 0 10px; font-size: 11px; color: #00C896; font-weight: 600; letter-spacing: 1px; text-transform: uppercase;">Database</p>
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="22" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="22" /></p>
-<p style="margin: 8px 0 0; font-size: 11px; color: #8B949E;">SQL Server · PostgreSQL · MySQL</p>
-</div>
-</td>
-</tr>
-<tr>
-<td style="width: 50%; padding: 6px; border: none; vertical-align: top;">
-<div style="background: #161B22; border: 1px solid #21262D; border-radius: 8px; padding: 20px;">
-<p style="margin: 0 0 10px; font-size: 11px; color: #58A6FF; font-weight: 600; letter-spacing: 1px; text-transform: uppercase;">AI & ML</p>
-<p style="margin: 0; font-size: 11px; color: #8B949E; line-height: 1.6;">OpenAI · Azure AI · RAG · Agents · MCP</p>
-</div>
-</td>
-<td style="width: 50%; padding: 6px; border: none; vertical-align: top;">
-<div style="background: #161B22; border: 1px solid #21262D; border-radius: 8px; padding: 20px;">
-<p style="margin: 0 0 10px; font-size: 11px; color: #00C896; font-weight: 600; letter-spacing: 1px; text-transform: uppercase;">Security</p>
-<p style="margin: 0; font-size: 11px; color: #8B949E; line-height: 1.6;">CEH · OWASP Top 10 · Pentesting · Threat Modeling</p>
-</div>
-</td>
-</tr>
-<tr>
-<td colspan="3" style="padding: 6px; border: none; vertical-align: top;">
-<div style="background: #161B22; border: 1px solid #21262D; border-radius: 8px; padding: 20px; text-align: center;">
-<p style="margin: 0 0 10px; font-size: 11px; color: #58A6FF; font-weight: 600; letter-spacing: 1px; text-transform: uppercase;">Technologies</p>
-<p style="margin: 0; line-height: 2.4;">
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=0D1117" alt=".NET" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" alt="Python" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117" alt="HTML5" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0D1117" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=0D1117" alt="Angular" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=0D1117" alt="Java" />
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white&labelColor=0D1117" alt="Swift" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=0D1117" alt="Android" />
-</p>
-</div>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br />
-
-<div style="max-width: 640px; margin: 0 auto; padding: 24px 0;">
-
 <div style="width: 28px; height: 2px; background: #7C3AED; border-radius: 1px; margin-bottom: 20px;"></div>
 
 <h2 style="font-size: 20px; font-weight: 600; color: #F0F6FC; margin: 0 0 20px;">GitHub</h2>
 
 <div align="center">
-
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=apiraces-hiberuscom&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apiraces-hiberuscom&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br /><br />
 
 <img src="https://streak-stats.demolab.com?user=apiraces-hiberuscom&theme=tokyonight&hide_border=true" />
 
