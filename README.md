@@ -13,7 +13,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&height=36&lines=Software+%E2%80%A2+AI+%E2%80%A2+Cloud+%E2%80%A2+Cybersecurity" alt="Typing Animation" style="max-width: 100%;" />
 
 <p style="color: #8B949E; font-size: 13px; margin: 16px auto 28px; max-width: 460px; line-height: 1.7;">
-From enterprise software to security engineering. I build systems that last and study how they break.
+From enterprise software to security engineering.
 </p>
 
 <div style="display: flex; gap: 8px; justify-content: center; flex-wrap: wrap;">
