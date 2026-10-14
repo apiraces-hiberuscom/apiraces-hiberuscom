@@ -1,27 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" preserveAspectRatio="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="Built with curiosity · Driven by principles">
+  <title>Built with curiosity · Driven by principles</title>
   <defs>
-    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0D1117"/>
-      <stop offset="25%" stop-color="#161B22"/>
-      <stop offset="50%" stop-color="#0D1117"/>
-      <stop offset="75%" stop-color="#161B22"/>
-      <stop offset="100%" stop-color="#0D1117"/>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58A6FF"/><stop offset=".5" stop-color="#A371F7"/><stop offset="1" stop-color="#00C896"/>
     </linearGradient>
-    <linearGradient id="lineTop" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0"/>
-      <stop offset="20%" stop-color="#58A6FF" stop-opacity="0.15"/>
-      <stop offset="50%" stop-color="#58A6FF" stop-opacity="0.3"/>
-      <stop offset="80%" stop-color="#58A6FF" stop-opacity="0.15"/>
-      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
-    </linearGradient>
+    <linearGradient id="w1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#58A6FF"/><stop offset="1" stop-color="#A371F7"/></linearGradient>
+    <linearGradient id="w2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#A371F7"/><stop offset="1" stop-color="#00C896"/></linearGradient>
+    <linearGradient id="fadeV" x1="0" y1="0" x2="0" y2="1"><stop offset=".45" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <mask id="fadeOut" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="170"><rect width="1200" height="170" fill="url(#fadeV)"/></mask>
+    <linearGradient id="w3" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00C896"/><stop offset="1" stop-color="#58A6FF"/></linearGradient>
   </defs>
-  <rect width="1200" height="120" fill="url(#waveGrad)"/>
-  <line x1="0" y1="0" x2="1200" y2="0" stroke="url(#lineTop)" stroke-width="1"/>
-  <circle cx="600" cy="60" r="1.5" fill="#8B949E" opacity="0.3"/>
-  <circle cx="560" cy="50" r="1" fill="#8B949E" opacity="0.2"/>
-  <circle cx="640" cy="55" r="1" fill="#8B949E" opacity="0.2"/>
-  <circle cx="580" cy="70" r="1" fill="#8B949E" opacity="0.15"/>
-  <circle cx="620" cy="45" r="1" fill="#8B949E" opacity="0.2"/>
-  <circle cx="550" cy="65" r="0.8" fill="#8B949E" opacity="0.15"/>
-  <circle cx="650" cy="72" r="0.8" fill="#8B949E" opacity="0.15"/>
+  <style>
+    .w { animation: slide 12s linear infinite; }
+    .w2 { animation-duration: 18s; animation-direction: reverse; }
+    .w3 { animation-duration: 24s; }
+    @keyframes slide { to { transform: translateX(-400px); } }
+  </style>
+  <text x="600.0" y="44" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#8B949E" letter-spacing="4">BUILT WITH CURIOSITY  ·  DRIVEN BY PRINCIPLES</text>
+  <g mask="url(#fadeOut)">
+    <path class="w w3" d="M0 100 Q100.0 70 200.0 100 T400 100 Q500.0 70 600.0 100 T800 100 Q900.0 70 1000.0 100 T1200 100 Q1300.0 70 1400.0 100 T1600 100 Q1700.0 70 1800.0 100 T2000 100 Q2100.0 70 2200.0 100 T2400 100 Q2500.0 70 2600.0 100 T2800 100 V170 H0 Z" fill="url(#w3)" opacity=".16"/>
+    <path class="w w2" d="M0 116 Q100.0 92 200.0 116 T400 116 Q500.0 92 600.0 116 T800 116 Q900.0 92 1000.0 116 T1200 116 Q1300.0 92 1400.0 116 T1600 116 Q1700.0 92 1800.0 116 T2000 116 Q2100.0 92 2200.0 116 T2400 116 Q2500.0 92 2600.0 116 T2800 116 V170 H0 Z" fill="url(#w2)" opacity=".22"/>
+    <path class="w" d="M0 132 Q100.0 114 200.0 132 T400 132 Q500.0 114 600.0 132 T800 132 Q900.0 114 1000.0 132 T1200 132 Q1300.0 114 1400.0 132 T1600 132 Q1700.0 114 1800.0 132 T2000 132 Q2100.0 114 2200.0 132 T2400 132 Q2500.0 114 2600.0 132 T2800 132 V170 H0 Z" fill="url(#w1)" opacity=".32"/>
+  </g>
 </svg>

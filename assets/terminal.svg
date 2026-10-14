@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="556" viewBox="0 0 1200 556" role="img" aria-label="About Alejandro: curiosity-driven software engineer and C|EH v13 certified ethical hacker">
+  <title>About Alejandro: curiosity-driven software engineer and C|EH v13 certified ethical hacker</title>
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58A6FF"/><stop offset=".5" stop-color="#A371F7"/><stop offset="1" stop-color="#00C896"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#21262D" stroke-width="1" opacity=".55"/>
+    </pattern>
+    <clipPath id="win"><rect width="1200" height="556" rx="14"/></clipPath>
+    <radialGradient id="glowG"><stop offset="0" stop-color="#00C896" stop-opacity=".18"/><stop offset="1" stop-color="#00C896" stop-opacity="0"/></radialGradient>
+    <clipPath id="c0"><rect x="213" y="82" height="30" width="0"><animate attributeName="width" from="0" to="65" begin="0.95s" dur="0.50s" fill="freeze"/></rect></clipPath><clipPath id="c3"><rect x="213" y="153" height="30" width="0"><animate attributeName="width" from="0" to="126" begin="2.17s" dur="0.60s" fill="freeze"/></rect></clipPath><clipPath id="c8"><rect x="213" y="282" height="30" width="0"><animate attributeName="width" from="0" to="126" begin="3.73s" dur="0.60s" fill="freeze"/></rect></clipPath><clipPath id="c13"><rect x="213" y="411" height="30" width="0"><animate attributeName="width" from="0" to="290" begin="5.29s" dur="1.40s" fill="freeze"/></rect></clipPath>
+  </defs>
+  <style>
+    text { font-family: ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace; font-size: 17px; }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { fill-opacity: 0; } }
+  </style>
+  <g clip-path="url(#win)">
+    <rect width="1200" height="556" fill="#0D1117"/>
+    <rect width="1200" height="556" fill="url(#grid)" opacity=".5"/>
+    <circle cx="1080" cy="496" r="260" fill="url(#glowG)"/>
+    <rect width="1200" height="48" fill="#161B22"/>
+    <line x1="0" y1="48" x2="1200" y2="48" stroke="#30363D"/>
+    <rect y="553" width="1200" height="3" fill="url(#brand)"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="555" rx="14" fill="none" stroke="#30363D"/>
+  <circle cx="28" cy="24" r="7" fill="#FF5F57"/><circle cx="52" cy="24" r="7" fill="#FEBC2E"/><circle cx="76" cy="24" r="7" fill="#28C840"/>
+  <text x="600.0" y="29" text-anchor="middle" fill="#8B949E" style="font-size:14px">alejandro@sec — ~/profile — zsh</text>
+  <text x="40" y="104" opacity="0"><set attributeName="opacity" to="1" begin="0.60s" fill="freeze"/><tspan fill="#00C896">alejandro</tspan><tspan fill="#8B949E">@</tspan><tspan fill="#58A6FF">sec</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#A371F7">~</tspan><tspan fill="#8B949E">$ </tspan></text>
+  <text clip-path="url(#c0)" x="213" y="104" fill="#F0F6FC" textLength="61" lengthAdjust="spacingAndGlyphs">whoami</text>
+  <text x="40" y="133" opacity="0" textLength="714" lengthAdjust="spacingAndGlyphs"><set attributeName="opacity" to="1" begin="1.70s" fill="freeze"/><tspan fill="#F0F6FC">Alejandro Piracés Pérez</tspan><tspan fill="#8B949E"> — Software Engineer &amp; Certified Ethical Hacker</tspan></text>
+  <text x="40" y="175" opacity="0"><set attributeName="opacity" to="1" begin="1.82s" fill="freeze"/><tspan fill="#00C896">alejandro</tspan><tspan fill="#8B949E">@</tspan><tspan fill="#58A6FF">sec</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#A371F7">~</tspan><tspan fill="#8B949E">$ </tspan></text>
+  <text clip-path="url(#c3)" x="213" y="175" fill="#F0F6FC" textLength="122" lengthAdjust="spacingAndGlyphs">cat about.md</text>
+  <text x="40" y="204" opacity="0" textLength="734" lengthAdjust="spacingAndGlyphs"><set attributeName="opacity" to="1" begin="3.02s" fill="freeze"/><tspan fill="#C9D1D9">Curiosity drives everything I build. I don't settle for making it work —</tspan></text>
+  <text x="40" y="233" opacity="0" textLength="571" lengthAdjust="spacingAndGlyphs"><set attributeName="opacity" to="1" begin="3.14s" fill="freeze"/><tspan fill="#C9D1D9">I study how it </tspan><tspan fill="#58A6FF">works</tspan><tspan fill="#C9D1D9">, how it </tspan><tspan fill="#A371F7">breaks</tspan><tspan fill="#C9D1D9">, and how it </tspan><tspan fill="#00C896">evolves</tspan><tspan fill="#C9D1D9">.</tspan></text>
+  <text x="40" y="262" opacity="0" textLength="612" lengthAdjust="spacingAndGlyphs"><set attributeName="opacity" to="1" begin="3.26s" fill="freeze"/><tspan fill="#C9D1D9">That mindset separates working software from great software.</tspan></text>
+  <text x="40" y="304" opacity="0"><set attributeName="opacity" to="1" begin="3.38s" fill="freeze"/><tspan fill="#00C896">alejandro</tspan><tspan fill="#8B949E">@</tspan><tspan fill="#58A6FF">sec</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#A371F7">~</tspan><tspan fill="#8B949E">$ </tspan></text>
+  <text clip-path="url(#c8)" x="213" y="304" fill="#F0F6FC" textLength="122" lengthAdjust="spacingAndGlyphs">cat path.yml</text>
+  <text x="40" y="333" opacity="0" textLength="449" lengthAdjust="spacingAndGlyphs"><set attributeName="opacity" to="1" begin="4.58s" fill="freeze"/><tspan fill="#58A6FF">army:     </tspan><tspan fill="#8B949E">leadership, discipline, operations</tspan></text>
+  <text x="40" y="362" opacity="0" textLength="653" lengthAdjust="spacingAndGlyphs"><set attributeName="opacity" to="1" begin="4.70s" fill="freeze"/><tspan fill="#A371F7">software: </tspan><tspan fill="#8B949E">.NET · Python · Angular · Swift · Android · Azure · AI</tspan></text>
+  <text x="40" y="391" opacity="0" textLength="663" lengthAdjust="spacingAndGlyphs"><set attributeName="opacity" to="1" begin="4.82s" fill="freeze"/><tspan fill="#00C896">security: </tspan><tspan fill="#8B949E">ethical hacking · offensive security · secure-by-design</tspan></text>
+  <text x="40" y="433" opacity="0"><set attributeName="opacity" to="1" begin="4.94s" fill="freeze"/><tspan fill="#00C896">alejandro</tspan><tspan fill="#8B949E">@</tspan><tspan fill="#58A6FF">sec</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#A371F7">~</tspan><tspan fill="#8B949E">$ </tspan></text>
+  <text clip-path="url(#c13)" x="213" y="433" fill="#F0F6FC" textLength="286" lengthAdjust="spacingAndGlyphs">sudo ./verify --cert ceh-v13</text>
+  <text x="40" y="462" opacity="0" textLength="510" lengthAdjust="spacingAndGlyphs"><set attributeName="opacity" to="1" begin="6.94s" fill="freeze"/><tspan fill="#6E7681">[</tspan><tspan fill="#58A6FF">*</tspan><tspan fill="#6E7681">] </tspan><tspan fill="#8B949E">Validating credential </tspan><tspan fill="#6E7681">........................</tspan></text>
+  <text x="40" y="491" opacity="0" textLength="694" lengthAdjust="spacingAndGlyphs"><set attributeName="opacity" to="1" begin="8.06s" fill="freeze"/><tspan fill="#6E7681">[</tspan><tspan fill="#00C896">✓</tspan><tspan fill="#6E7681">] </tspan><tspan fill="#F0F6FC">Certified Ethical Hacker · C|EH v13 · EC-Council  </tspan><tspan fill="#00C896">ACCESS GRANTED</tspan></text>
+  <text x="40" y="520" opacity="0"><set attributeName="opacity" to="1" begin="8.06s" fill="freeze"/><tspan fill="#00C896">alejandro</tspan><tspan fill="#8B949E">@</tspan><tspan fill="#58A6FF">sec</tspan><tspan fill="#8B949E">:</tspan><tspan fill="#A371F7">~</tspan><tspan fill="#8B949E">$ </tspan></text>
+  <rect class="cursor" x="213" y="505" width="10" height="20" fill="#00C896" opacity="0"><set attributeName="opacity" to="1" begin="8.06s" fill="freeze"/></rect>
+</svg>

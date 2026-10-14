@@ -1,40 +1,71 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="340" viewBox="0 0 400 340">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-label="Path: Spanish Army (2014) → Software Engineering (2019) → Cisco CCST Cybersecurity → C|EH v13 Certified Ethical Hacker (2026)">
+  <title>Path: Spanish Army (2014) → Software Engineering (2019) → Cisco CCST Cybersecurity → C|EH v13 Certified Ethical Hacker (2026)</title>
   <defs>
-    <linearGradient id="pathGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#58A6FF"/>
-      <stop offset="50%" stop-color="#7C3AED"/>
-      <stop offset="100%" stop-color="#00C896"/>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58A6FF"/><stop offset=".5" stop-color="#A371F7"/><stop offset="1" stop-color="#00C896"/>
     </linearGradient>
-    <linearGradient id="dotBlue" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#58A6FF"/>
-      <stop offset="100%" stop-color="#1F6FEB"/>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#21262D" stroke-width="1" opacity=".55"/>
+    </pattern>
+    <linearGradient id="path" gradientUnits="userSpaceOnUse" x1="150" y1="0" x2="1050" y2="0">
+      <stop offset="0" stop-color="#58A6FF"/><stop offset=".4" stop-color="#A371F7"/><stop offset=".7" stop-color="#2DD4BF"/><stop offset="1" stop-color="#00C896"/>
     </linearGradient>
-    <linearGradient id="dotPurple" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#7C3AED"/>
-      <stop offset="100%" stop-color="#5B21B6"/>
-    </linearGradient>
-    <linearGradient id="dotGreen" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#00C896"/>
-      <stop offset="100%" stop-color="#059669"/>
-    </linearGradient>
+    <clipPath id="card"><rect width="1200" height="250" rx="16"/></clipPath>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   </defs>
-
-  <line x1="48" y1="24" x2="48" y2="300" stroke="url(#pathGrad)" stroke-width="2" stroke-linecap="round"/>
-
-  <circle cx="48" cy="65" r="8" fill="url(#dotBlue)" stroke="#0D1117" stroke-width="3"/>
-  <text x="72" y="61" font-family="'SF Mono','JetBrains Mono',monospace" font-size="12" fill="#8B949E">2014 — 2019</text>
-  <text x="72" y="80" font-family="'SF Pro','Inter',sans-serif" font-size="15" fill="#F0F6FC" font-weight="600">Spanish Army</text>
-  <text x="230" y="80" font-family="'SF Pro','Inter',sans-serif" font-size="11" fill="#8B949E">Leadership &amp; Operations</text>
-
-  <circle cx="48" cy="155" r="8" fill="url(#dotPurple)" stroke="#0D1117" stroke-width="3"/>
-  <text x="72" y="151" font-family="'SF Mono','JetBrains Mono',monospace" font-size="12" fill="#8B949E">2019 — Present</text>
-  <text x="72" y="170" font-family="'SF Pro','Inter',sans-serif" font-size="15" fill="#F0F6FC" font-weight="600">Software Engineering</text>
-  <text x="250" y="170" font-family="'SF Pro','Inter',sans-serif" font-size="11" fill="#8B949E">.NET · Azure · AI</text>
-
-  <circle cx="48" cy="250" r="10" fill="url(#dotGreen)" stroke="#0D1117" stroke-width="3"/>
-  <text x="72" y="246" font-family="'SF Mono','JetBrains Mono',monospace" font-size="12" fill="#8B949E">Today</text>
-  <text x="72" y="265" font-family="'SF Pro','Inter',sans-serif" font-size="15" fill="#00C896" font-weight="600">Pivoting to Cybersecurity</text>
-
-  <rect x="72" y="280" width="270" height="40" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/>
-  <text x="80" y="305" font-family="'SF Pro','Inter',sans-serif" font-size="12" fill="#00C896">CCST Cybersecurity · C|EH v13 (in progress)</text>
+  <style>
+    .draw { stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: draw 2.2s .3s cubic-bezier(.6,0,.2,1) forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    .pop { opacity: 0; animation: pop .6s ease-out forwards; }
+    @keyframes pop { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+    .ring { transform-box: fill-box; transform-origin: center; animation: ring 2s ease-out infinite; }
+    @keyframes ring { from { opacity: .9; transform: scale(1); } to { opacity: 0; transform: scale(2.4); } }
+    .flow { stroke-dasharray: 4 14; animation: flow 1.2s linear infinite; }
+    @keyframes flow { to { stroke-dashoffset: -18; } }
+  </style>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="250" fill="#0D1117"/>
+    <rect width="1200" height="250" fill="url(#grid)" opacity=".6"/>
+    <rect y="247" width="1200" height="3" fill="url(#brand)"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="249" rx="16" fill="none" stroke="#30363D"/>
+  <line x1="150" y1="112" x2="1050" y2="112" stroke="#21262D" stroke-width="4" stroke-linecap="round"/>
+  <line class="draw" x1="150" y1="112" x2="1050" y2="112" stroke="url(#path)" stroke-width="4" stroke-linecap="round"/>
+  <line class="flow" x1="1066" y1="112" x2="1160" y2="112" stroke="#00C896" stroke-width="3" stroke-linecap="round" opacity=".6"/>
+  <g class="pop" style="animation-delay:0.40s">
+    
+    <text x="150" y="76" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" font-weight="600" fill="#8B949E" letter-spacing="2">2014</text>
+    
+    <circle cx="150" cy="112" r="12" fill="#0D1117" stroke="#58A6FF" stroke-width="3" filter="url(#glow)"/>
+    <circle cx="150" cy="112" r="5" fill="#58A6FF"/>
+    <text x="150" y="164" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="22" font-weight="800" fill="#F0F6FC">Spanish Army</text>
+    <text x="150" y="192" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#8B949E">Leadership &amp; Operations</text>
+  </g>
+  <g class="pop" style="animation-delay:0.95s">
+    
+    <text x="450" y="76" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" font-weight="600" fill="#8B949E" letter-spacing="2">2019</text>
+    
+    <circle cx="450" cy="112" r="12" fill="#0D1117" stroke="#A371F7" stroke-width="3" filter="url(#glow)"/>
+    <circle cx="450" cy="112" r="5" fill="#A371F7"/>
+    <text x="450" y="164" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="22" font-weight="800" fill="#F0F6FC">Software Engineering</text>
+    <text x="450" y="192" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#8B949E">.NET · Azure · AI</text>
+  </g>
+  <g class="pop" style="animation-delay:1.50s">
+    
+    <text x="750" y="76" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" font-weight="600" fill="#8B949E" letter-spacing="2">CISCO</text>
+    
+    <circle cx="750" cy="112" r="12" fill="#0D1117" stroke="#2DD4BF" stroke-width="3" filter="url(#glow)"/>
+    <circle cx="750" cy="112" r="5" fill="#2DD4BF"/>
+    <text x="750" y="164" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="22" font-weight="800" fill="#F0F6FC">CCST Cybersecurity</text>
+    <text x="750" y="192" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#8B949E">Security fundamentals</text>
+  </g>
+  <g class="pop" style="animation-delay:2.05s">
+    <rect x="1020" y="38" width="60" height="22" rx="11" fill="#00C896" fill-opacity=".15" stroke="#00C896" stroke-opacity=".6"/><text x="1050" y="54" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="700" fill="#00C896" letter-spacing="2">NOW</text>
+    <text x="1050" y="76" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" font-weight="600" fill="#8B949E" letter-spacing="2">2026</text>
+    <circle class="ring" cx="1050" cy="112" r="16" fill="none" stroke="#00C896" stroke-width="2"/>
+    <circle cx="1050" cy="112" r="15" fill="#0D1117" stroke="#00C896" stroke-width="3" filter="url(#glow)"/>
+    <circle cx="1050" cy="112" r="6" fill="#00C896"/>
+    <text x="1050" y="164" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="22" font-weight="800" fill="#00C896">C|EH v13</text>
+    <text x="1050" y="192" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14" fill="#8B949E">Certified Ethical Hacker</text>
+  </g>
 </svg>

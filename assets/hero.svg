@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="Alejandro Piracés Pérez — Software Engineer &amp; Certified Ethical Hacker (C|EH v13)">
+  <title>Alejandro Piracés Pérez — Software Engineer &amp; Certified Ethical Hacker (C|EH v13)</title>
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58A6FF"/><stop offset=".5" stop-color="#A371F7"/><stop offset="1" stop-color="#00C896"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#21262D" stroke-width="1" opacity=".55"/>
+    </pattern>
+    <radialGradient id="orbA"><stop offset="0" stop-color="#58A6FF" stop-opacity=".35"/><stop offset="1" stop-color="#58A6FF" stop-opacity="0"/></radialGradient>
+    <radialGradient id="orbB"><stop offset="0" stop-color="#7C3AED" stop-opacity=".35"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
+    <radialGradient id="orbC"><stop offset="0" stop-color="#00C896" stop-opacity=".22"/><stop offset="1" stop-color="#00C896" stop-opacity="0"/></radialGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00C896" stop-opacity="0"/><stop offset=".9" stop-color="#00C896" stop-opacity=".10"/><stop offset="1" stop-color="#00C896" stop-opacity=".45"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#58A6FF"/><stop offset=".5" stop-color="#A371F7"/><stop offset="1" stop-color="#00C896"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="1200" height="400" rx="18"/></clipPath>
+    <clipPath id="nameClip"><text x="380" y="196" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="58" font-weight="800" textLength="740" lengthAdjust="spacingAndGlyphs">Alejandro Piracés Pérez</text></clipPath>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="type0"><rect x="408.8" y="236" height="36" width="0">
+      <animate attributeName="width" dur="12.0s" repeatCount="indefinite" values="0.0;403.2;403.2;0.0;0.0" keyTimes="0.0000;0.1250;0.2667;0.3000;1.0000"/>
+    </rect></clipPath>
+    <clipPath id="type1"><rect x="408.8" y="236" height="36" width="0">
+      <animate attributeName="width" dur="12.0s" repeatCount="indefinite" values="0.0;0.0;446.4;446.4;0.0;0.0" keyTimes="0.0000;0.3333;0.4583;0.6000;0.6333;1.0000"/>
+    </rect></clipPath>
+    <clipPath id="type2"><rect x="408.8" y="236" height="36" width="0">
+      <animate attributeName="width" dur="12.0s" repeatCount="indefinite" values="0.0;0.0;504.0;504.0;0.0;0.0" keyTimes="0.0000;0.6667;0.7917;0.9333;0.9667;1.0000"/>
+    </rect></clipPath>
+  </defs>
+  <style>
+    .orb { animation: drift 18s ease-in-out infinite alternate; transform-box: fill-box; transform-origin: center; }
+    .orb.b { animation-duration: 22s; animation-direction: alternate-reverse; }
+    .orb.c { animation-duration: 26s; }
+    @keyframes drift { 0% { transform: translate(0,0) scale(1); } 50% { transform: translate(60px,-30px) scale(1.15); } 100% { transform: translate(-40px,25px) scale(.95); } }
+    .scan { animation: scan 6s linear infinite; }
+    @keyframes scan { from { transform: translateY(-140px); } to { transform: translateY(400px); } }
+    .spin { animation: spin 14s linear infinite; transform-origin: 190px 200px; }
+    .spin.r { animation-duration: 22s; animation-direction: reverse; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .pulse { animation: pulse 2.4s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity: .55; } 50% { opacity: 1; } }
+    .fade { opacity: 0; animation: fade .9s ease-out forwards; }
+    .d1 { animation-delay: .15s; } .d2 { animation-delay: .35s; } .d3 { animation-delay: .6s; } .d4 { animation-delay: .85s; }
+    @keyframes fade { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    .sweep { animation: sweep 5s ease-in-out infinite; }
+    @keyframes sweep { 0%,55% { transform: translateX(-200px); } 100% { transform: translateX(980px); } }
+  </style>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="400" fill="#0D1117"/>
+    <rect width="1200" height="400" fill="url(#grid)"/>
+    <circle class="orb" cx="980" cy="90" r="260" fill="url(#orbB)"/>
+    <circle class="orb b" cx="300" cy="330" r="240" fill="url(#orbA)"/>
+    <circle class="orb c" cx="1100" cy="380" r="200" fill="url(#orbC)"/>
+    <rect class="scan" x="0" y="0" width="1200" height="140" fill="url(#scan)"/>
+    <rect x="0" y="397" width="1200" height="3" fill="url(#brand)"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="399" rx="18" fill="none" stroke="#30363D"/>
+
+  <!-- monogram -->
+  <g class="spin"><circle cx="190" cy="200" r="112" fill="none" stroke="url(#ring)" stroke-width="2" stroke-dasharray="2 10" stroke-linecap="round"/></g>
+  <g class="spin r"><circle cx="190" cy="200" r="98" fill="none" stroke="url(#ring)" stroke-width="3" stroke-dasharray="120 60 40 80" stroke-linecap="round" opacity=".9"/></g>
+  <polygon points="190.0,122.0 257.5,161.0 257.5,239.0 190.0,278.0 122.5,239.0 122.5,161.0" fill="#161B22" stroke="url(#ring)" stroke-width="2.5" filter="url(#glow)"/>
+  <polygon points="190.0,134.0 247.2,167.0 247.2,233.0 190.0,266.0 132.8,233.0 132.8,167.0" fill="none" stroke="#30363D"/>
+  <text x="190" y="217" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="50" font-weight="800" fill="url(#brand)" letter-spacing="1">AP</text>
+
+  <!-- copy -->
+  <text class="fade d1" x="380" y="118" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#8B949E" letter-spacing="3">// SOFTWARE ENGINEER <tspan fill="#00C896">×</tspan> CERTIFIED ETHICAL HACKER</text>
+  <g class="fade d2">
+    <text x="380" y="196" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="58" font-weight="800" fill="#F0F6FC" textLength="740" lengthAdjust="spacingAndGlyphs">Alejandro Piracés Pérez</text>
+    <g clip-path="url(#nameClip)"><rect class="sweep" x="380" y="130" width="120" height="80" fill="url(#shine)" opacity=".35" transform="skewX(-20)"/></g>
+    <rect x="380" y="214" width="96" height="4" rx="2" fill="url(#brand)"/>
+  </g>
+  <g class="fade d3">
+    <text x="380" y="262" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="24" fill="#6E7681">&gt;</text>
+    <text clip-path="url(#type0)" x="408.8" y="262" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="24" fill="#58A6FF" textLength="403.2" lengthAdjust="spacingAndGlyphs">building software that lasts</text>
+    <rect y="241" width="12" height="26" fill="#58A6FF" opacity="0" x="408.8">
+      <animate attributeName="x" dur="12.0s" repeatCount="indefinite" values="408.8;812.0;812.0;408.8;408.8" keyTimes="0.0000;0.1250;0.2667;0.3000;1.0000"/>
+      <animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" values="1;1;1;0;0" keyTimes="0.0000;0.1250;0.2667;0.3000;1.0000"/>
+    </rect>
+    <text clip-path="url(#type1)" x="408.8" y="262" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="24" fill="#A371F7" textLength="446.4" lengthAdjust="spacingAndGlyphs">breaking it before attackers do</text>
+    <rect y="241" width="12" height="26" fill="#A371F7" opacity="0" x="408.8">
+      <animate attributeName="x" dur="12.0s" repeatCount="indefinite" values="408.8;408.8;855.2;855.2;408.8;408.8" keyTimes="0.0000;0.3333;0.4583;0.6000;0.6333;1.0000"/>
+      <animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;1;1;0;0" keyTimes="0.0000;0.3333;0.4583;0.6000;0.6333;1.0000"/>
+    </rect>
+    <text clip-path="url(#type2)" x="408.8" y="262" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="24" fill="#00C896" textLength="504.0" lengthAdjust="spacingAndGlyphs">C|EH v13 — certified ethical hacker</text>
+    <rect y="241" width="12" height="26" fill="#00C896" opacity="0" x="408.8">
+      <animate attributeName="x" dur="12.0s" repeatCount="indefinite" values="408.8;408.8;912.8;912.8;408.8;408.8" keyTimes="0.0000;0.6667;0.7917;0.9333;0.9667;1.0000"/>
+      <animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;1;1;0;0" keyTimes="0.0000;0.6667;0.7917;0.9333;0.9667;1.0000"/>
+    </rect>
+  </g>
+    <g class="fade d4">
+      <rect x="380" y="306" width="202" height="32" rx="16" fill="#58A6FF" fill-opacity=".08" stroke="#58A6FF" stroke-opacity=".45"/>
+      <circle cx="396" cy="322" r="3.5" fill="#58A6FF" class="pulse"/>
+      <text x="407" y="327" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="600" fill="#58A6FF" letter-spacing="1" textLength="166">SOFTWARE ENGINEERING</text>
+    </g>
+    <g class="fade d4">
+      <rect x="594.0" y="306" width="118" height="32" rx="16" fill="#A371F7" fill-opacity=".08" stroke="#A371F7" stroke-opacity=".45"/>
+      <circle cx="610.0" cy="322" r="3.5" fill="#A371F7" class="pulse"/>
+      <text x="621.0" y="327" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="600" fill="#A371F7" letter-spacing="1" textLength="82">AI · CLOUD</text>
+    </g>
+    <g class="fade d4">
+      <rect x="724.0" y="306" width="185" height="32" rx="16" fill="#00C896" fill-opacity=".08" stroke="#00C896" stroke-opacity=".45"/>
+      <circle cx="740.0" cy="322" r="3.5" fill="#00C896" class="pulse"/>
+      <text x="751.0" y="327" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="600" fill="#00C896" letter-spacing="1" textLength="149">OFFENSIVE SECURITY</text>
+    </g>
+
+  <!-- certified chip -->
+  <g class="fade d4">
+    <rect x="958" y="28" width="214" height="38" rx="19" fill="#00C896" fill-opacity=".1" stroke="#00C896" stroke-opacity=".6"/>
+    <circle cx="981" cy="47" r="10" fill="#00C896" class="pulse" filter="url(#glow)"/>
+    <path d="M976 47.5l3.5 3.5 6.5-7" fill="none" stroke="#0D1117" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="1000" y="52" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" font-weight="700" fill="#00C896" letter-spacing="1" textLength="158">C|EH v13 CERTIFIED</text>
+  </g>
+</svg>

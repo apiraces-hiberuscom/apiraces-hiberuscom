@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Certifications: EC-Council Certified Ethical Hacker C|EH v13 (2026) and Cisco CCST Cybersecurity">
+  <title>Certifications: EC-Council Certified Ethical Hacker C|EH v13 (2026) and Cisco CCST Cybersecurity</title>
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58A6FF"/><stop offset=".5" stop-color="#A371F7"/><stop offset="1" stop-color="#00C896"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#21262D" stroke-width="1" opacity=".55"/>
+    </pattern>
+    <linearGradient id="border" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="676" y2="360">
+      <stop offset="0" stop-color="#00C896"/><stop offset=".5" stop-color="#58A6FF"/><stop offset="1" stop-color="#A371F7"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" from="0 338.0 180.0" to="360 338.0 180.0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="shield" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#00C896"/><stop offset="1" stop-color="#059669"/></linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".05"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="g1"><stop offset="0" stop-color="#00C896" stop-opacity=".22"/><stop offset="1" stop-color="#00C896" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2"><stop offset="0" stop-color="#58A6FF" stop-opacity=".16"/><stop offset="1" stop-color="#58A6FF" stop-opacity="0"/></radialGradient>
+    <clipPath id="ca"><rect x="0" width="676" height="360" rx="16"/></clipPath>
+    <clipPath id="cb"><rect x="700" width="500" height="360" rx="16"/></clipPath>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <style>
+    .sweep { animation: sweep 6s ease-in-out infinite; }
+    @keyframes sweep { 0%,40% { transform: translateX(-320px) skewX(-20deg); } 100% { transform: translateX(900px) skewX(-20deg); } }
+    .pulse { animation: pulse 2.4s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity: .6; } 50% { opacity: 1; } }
+    .stamp { transform-box: fill-box; transform-origin: center; animation: stamp .7s 1s cubic-bezier(.2,1.6,.4,1) both; }
+    @keyframes stamp { from { opacity: 0; transform: scale(2.2) rotate(-8deg); } to { opacity: 1; transform: scale(1) rotate(-4deg); } }
+    .ring { transform-box: fill-box; transform-origin: center; animation: ring 2.4s ease-out infinite; }
+    @keyframes ring { from { opacity: .7; transform: scale(1); } to { opacity: 0; transform: scale(1.6); } }
+  </style>
+
+  <!-- ===== C|EH ===== -->
+  <g clip-path="url(#ca)">
+    <rect x="0" width="676" height="360" fill="#0D1117"/>
+    <rect x="0" width="676" height="360" fill="url(#grid)" opacity=".6"/>
+    <circle cx="586" cy="70" r="240" fill="url(#g1)"/>
+    <rect class="sweep" x="0" y="-40" width="220" height="440" fill="url(#shine)"/>
+  </g>
+  <rect x="1" y="1" width="674" height="358" rx="15" fill="none" stroke="url(#border)" stroke-width="2"/>
+
+  <g transform="translate(40 40)">
+    <path d="M38 0 76 15v30c0 26-17 44-38 53C17 89 0 71 0 45V15Z" fill="#161B22" stroke="url(#shield)" stroke-width="2.5" filter="url(#glow)"/>
+    <text x="38" y="56" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="20" font-weight="800" fill="#00C896">C|EH</text>
+  </g>
+  <text x="140" y="62" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8B949E" letter-spacing="3">EC-COUNCIL</text>
+  <text x="140" y="100" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="32" font-weight="800" fill="#F0F6FC" textLength="385" lengthAdjust="spacingAndGlyphs">Certified Ethical Hacker</text>
+  <text x="140" y="130" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="16" fill="#58A6FF">C|EH v13 <tspan fill="#6E7681">·</tspan> <tspan fill="#A371F7">2026</tspan></text>
+
+  <g class="stamp">
+    <rect x="40" y="166" width="176" height="40" rx="8" fill="#00C896" fill-opacity=".12" stroke="#00C896" stroke-width="2"/>
+    <text x="128" y="193" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="17" font-weight="800" fill="#00C896" letter-spacing="3">✓ CERTIFIED</text>
+  </g>
+  <text x="236" y="192" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#6E7681">// think like an attacker, defend like an engineer</text>
+    <rect x="40" y="234" width="146" height="28" rx="14" fill="#00C896" fill-opacity=".07" stroke="#00C896" stroke-opacity=".35"/><text x="52" y="253" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#F0F6FC" fill-opacity=".85" textLength="122">Recon &amp; Scanning</text>
+    <rect x="194" y="234" width="130" height="28" rx="14" fill="#00C896" fill-opacity=".07" stroke="#00C896" stroke-opacity=".35"/><text x="206" y="253" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#F0F6FC" fill-opacity=".85" textLength="106">System Hacking</text>
+    <rect x="332" y="234" width="138" height="28" rx="14" fill="#00C896" fill-opacity=".07" stroke="#00C896" stroke-opacity=".35"/><text x="344" y="253" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#F0F6FC" fill-opacity=".85" textLength="114">Web Apps &amp; SQLi</text>
+    <rect x="478" y="234" width="146" height="28" rx="14" fill="#00C896" fill-opacity=".07" stroke="#00C896" stroke-opacity=".35"/><text x="490" y="253" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#F0F6FC" fill-opacity=".85" textLength="122">Cloud · IoT · OT</text>
+    <rect x="40" y="270" width="161" height="28" rx="14" fill="#00C896" fill-opacity=".07" stroke="#00C896" stroke-opacity=".35"/><text x="52" y="289" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#F0F6FC" fill-opacity=".85" textLength="137">AI-powered attacks</text>
+
+  <!-- ===== CCST ===== -->
+  <g clip-path="url(#cb)">
+    <rect x="700" width="500" height="360" fill="#0D1117"/>
+    <rect x="700" width="500" height="360" fill="url(#grid)" opacity=".6"/>
+    <circle cx="1140" cy="70" r="220" fill="url(#g2)"/>
+  </g>
+  <rect x="700.5" y=".5" width="499" height="359" rx="16" fill="none" stroke="#30363D"/>
+
+  <g transform="translate(736 44)">
+    <rect width="76" height="76" rx="18" fill="#161B22" stroke="#58A6FF" stroke-opacity=".7" stroke-width="2"/>
+    <rect x="24" y="36" width="28" height="22" rx="4" fill="none" stroke="#58A6FF" stroke-width="2.5"/>
+    <path d="M30 36v-7a8 8 0 0 1 16 0v7" fill="none" stroke="#58A6FF" stroke-width="2.5"/>
+    <circle cx="38" cy="47" r="3" fill="#58A6FF"/>
+  </g>
+  <text x="832" y="62" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#8B949E" letter-spacing="3">CISCO</text>
+  <text x="832" y="100" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="27" font-weight="800" fill="#F0F6FC" textLength="300" lengthAdjust="spacingAndGlyphs">CCST Cybersecurity</text>
+  <text x="832" y="130" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" fill="#58A6FF">Certified Support Technician</text>
+  <rect x="736" y="166" width="150" height="40" rx="8" fill="#58A6FF" fill-opacity=".1" stroke="#58A6FF" stroke-opacity=".7" stroke-width="1.5"/>
+  <text x="811" y="192" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="15" font-weight="700" fill="#58A6FF" letter-spacing="2">✓ CERTIFIED</text>
+    <rect x="736" y="234" width="146" height="28" rx="14" fill="#58A6FF" fill-opacity=".07" stroke="#58A6FF" stroke-opacity=".35"/><text x="748" y="253" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#F0F6FC" fill-opacity=".85" textLength="122">Network Security</text>
+    <rect x="890" y="234" width="153" height="28" rx="14" fill="#58A6FF" fill-opacity=".07" stroke="#58A6FF" stroke-opacity=".35"/><text x="902" y="253" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#F0F6FC" fill-opacity=".85" textLength="129">Endpoint Security</text>
+    <rect x="736" y="270" width="138" height="28" rx="14" fill="#58A6FF" fill-opacity=".07" stroke="#58A6FF" stroke-opacity=".35"/><text x="748" y="289" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#F0F6FC" fill-opacity=".85" textLength="114">Risk Management</text>
+    <rect x="882" y="270" width="153" height="28" rx="14" fill="#58A6FF" fill-opacity=".07" stroke="#58A6FF" stroke-opacity=".35"/><text x="894" y="289" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12.5" fill="#F0F6FC" fill-opacity=".85" textLength="129">Incident Handling</text>
+</svg>
